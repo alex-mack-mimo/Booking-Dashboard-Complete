@@ -1,0 +1,30 @@
+:root {
+    background-color: #FEF3EC;
+    --light-blue: #2FAFC8;
+    --dark-blue:#3E3D4E;
+    --blue-font: #3E416D;
+    --orange: #FCC7A8;
+    --gray-font: #AEADB4;
+    --gray-border:#979797;
+  }
+  
+  
+  *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  body {
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  
